@@ -9,7 +9,7 @@
 
 
 This project aims to maintain a calendar events of Nepal that can be imported to popular calendar apps such as Google Calendar and Calendar app on Mac.
-The Events provided through this api is based on data from [HamroPatro](https://www.hamropatro.com/)
+The Events provided through this api is based on data from [TymTrap]
 
 ![](assets/example.png)
 
