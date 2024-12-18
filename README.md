@@ -1,5 +1,5 @@
-# Nepali Calendar for Google Calendar
-> List of nepali events for Calendar apps
+# Tym Calendar for Google Calendar
+> List of Tym events for Calendar apps
 
 [![HitCount][hits-image]][hits-url]
 [![nepal][made-in-Nepal]][repo-url]
